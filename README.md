@@ -13,8 +13,8 @@
 - `Spring Boot JDBC`
 
 # 📌 주요기능 및 체크사항
-✅ DB와 관련된 함수들을 트랜잭션 처리
-✅ 매일 새벽 1시에 날씨 데이터를 외부 API 에서 받아, DB에 저장해두는 로직을 구현
-✅ logback 을 이용하여 프로젝트에 로그 기록 남기기
-✅ ExceptionHandler 을 이용한 예외처리
-✅ swagger 을 이용하여 API documentation
+- ✅ DB와 관련된 함수들을 트랜잭션 처리
+- ✅ 매일 새벽 1시에 날씨 데이터를 외부 API 에서 받아, DB에 저장해두는 로직을 구현
+- ✅ logback 을 이용하여 프로젝트에 로그 기록 남기기
+- ✅ ExceptionHandler 을 이용한 예외처리
+- ✅ swagger 을 이용하여 API documentation
